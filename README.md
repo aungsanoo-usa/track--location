@@ -20,7 +20,6 @@ When users click the link, their details will be logged, and they will be redire
 
 ## Requirements
 - PHP 7.x or higher
-- Internet connection for geolocation API
 
 ## Disclaimer
 This script is for educational purposes only. Ensure compliance with local privacy laws before using it in production.
